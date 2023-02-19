@@ -1,8 +1,9 @@
 ## Oi eu sou o Wesley Junio, estudante de de programação e apaixonado por tecnologia.
+<a href="https://github.com/wesleyjp">
 <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/14878939?v=4">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=wesleyjp&show_icons=true)](https://github.com/wesleyjp)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyjp&hide_progress=false&layout=compact)](https://github.com/wesleyjp)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=wesleyjp&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyjp&hide_progress=false&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +17,5 @@
 
 ## 
 
-
 ![Snake animation](https://github.com/wesleyjp/wesleyjp/blob/output/github-contribution-grid-snake.svg)
-
+</a>
