@@ -1,6 +1,6 @@
 ## Oi eu sou o Wesley Junio, estudante de de programação e apaixonado por tecnologia.
 <a href="https://github.com/wesleyjp">
-<img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/14878939?v=4">
+<img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="[https://avatars.githubusercontent.com/u/14878939?v=4](https://github.com/wesleyjp/wesleyjp/blob/main/photo_2023-04-01_17-26-04.jpg)">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=wesleyjp&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyjp&hide_progress=false&layout=compact)
